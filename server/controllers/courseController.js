@@ -1,7 +1,7 @@
 import Course from "../models/Course.js"
 
 // hello deepanshi how are you ???
-// what you doing?
+
 
 // Get All Courses
 export const getAllCourse = async (req, res) => {
